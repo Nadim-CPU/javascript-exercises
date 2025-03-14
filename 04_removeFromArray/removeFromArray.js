@@ -9,7 +9,7 @@ const removeFromArray = function(array, num) {
             }
         }
     }
-    array.length--;
+    array.length--; // TEST!!
     return array;
 };
 
